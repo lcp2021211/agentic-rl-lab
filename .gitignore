@@ -50,6 +50,7 @@ htmlcov/
 08-alfworld/datasets/
 08-alfworld/eval_results/
 08-alfworld/outputs/
+01-grpo/outputs/
 09-AgentOPSD/datasets/
 09-AgentOPSD/eval_results/
 09-AgentOPSD/train_results/
